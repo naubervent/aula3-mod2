@@ -4,7 +4,7 @@ ATIVIDADE E ALGUNS EXERCÍCIOS UTILIZANDO LAÇO DE REPETIÇÃO FOR, FOREACH, WHI
 let listaElementos = [1,2,3,4,5,6,7,8,9,10]
 let i = 0
 
->> WHILE
+WHILE
 while(i < 10){
     console.log(`O indice ${i} representa o número: ${listaElementos[i]}`)
     i++
